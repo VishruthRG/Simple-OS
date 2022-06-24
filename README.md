@@ -7,9 +7,9 @@ The concrete implementations begin from the second machine problem, in folder mp
 
 Below is the list of what is accomplished in each machine problem:
 
-mp2 - Frame Manager
-mp3 - Page Manager (pt. 1)
-mp4 - Page Manager (pt. 2)
-mp5 - Simple Kernel Threads
-mp6 - Primitive Device Driver
+mp2 - Frame Manager <br /> 
+mp3 - Page Manager (pt. 1) <br />
+mp4 - Page Manager (pt. 2)\
+mp5 - Simple Kernel Threads\
+mp6 - Primitive Device Driver\
 mp7 - Simple File System
